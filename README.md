@@ -1,2 +1,2 @@
-# -dev
+# Ödevim
 Ödev-proje
