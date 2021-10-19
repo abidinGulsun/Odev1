@@ -1,2 +1,2 @@
 # Ödevim
-Ödev-proje
+İkinci Gün Ödev
